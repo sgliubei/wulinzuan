@@ -1,1 +1,1 @@
-
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"402","ios_url":"http:\/\/www.baidu.com\/ios_update","applePlist_url":"https:\/\/raw.githubusercontent.com\/sgliubei\/wulinzuan\/master\/ios.plist","other":",1,aHR0cDovL3d3dy5iYWlkdS5jb20saHR0cDovLzE5Mi4xNjguMS4xODg6OTkwNyxodHRwczovL3d3dy50YW9iYW8uY29t","thirdLoginEnable":"0"}]}}
